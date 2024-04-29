@@ -3,3 +3,4 @@ chromadb
 crewai[tools]
 streamlit
 langchain
+unstructured
