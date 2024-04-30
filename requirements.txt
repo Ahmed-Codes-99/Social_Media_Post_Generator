@@ -1,4 +1,6 @@
-pysqlite3-binary
 crewai[tools]
+pysqlite3-binary
+chromadb
+langchain
 streamlit
 unstructured
